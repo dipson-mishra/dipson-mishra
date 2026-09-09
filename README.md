@@ -17,17 +17,3 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 
 - Mathematical Foundation: Probability Theory, Discrete Mathematics, Linear Algebra, Multivariable Calculus
 
-### Hobbies:
-- Chess: ~2000 Elo on Chess.com though it keeps on fluctuating , love  puzzles and mental challenges
-
-- Sports: Football fan in love with the tactical and technical side of the game. ⚽️
-
-- Shows & Movies: Big on binge-watching TV series over watching movies, though I do appreciate good films.
-
-
-- Reading: Books, manhwas, and thinking about random philosophical questions on reddit
-
-
-  
-
- 
