@@ -1,17 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Dipson Mishra
 
-I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curious student always looking for a challenge, with my core focus being Machine Learning, Data Science and Applied Mathematics. I am currently participating in WQU's Data Science Lab program.
+**Data Science Undergrad @ Tribhuvan University | Aspiring ML Engineer specializing in MLOps & Computer Vision**
 
-### Recents:
+###  Current Focus
+- Building production-ready ML systems with MLOps best practices
+- Mastering Computer Vision for real-world applications
+- Currently enrolled in [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) (completing Oct 2026)
 
-- Coding in Python: Spending most of my time writing Python code and building ML projects 
+### 🚀 Recent Achievements
+- **FlyRank AI Internship:** Improved content prioritization Precision@50 by **3x** (0.24 → 0.68) using Learning-to-Rank models
+- **Scale:** Engineered data pipelines over **79M rows** using DuckDB, bypassing RAM constraints
+- **Certifications:** DataCamp Associate Data Scientist, WorldQuant Applied Data Science Lab(Ongoing)
 
-- Trying to figure Out AI: Learning the fundamentals of ML and taking it one step at a time
+### 📫 Find me on
+- LinkedIn: [linkedin.com/in/dipson-mishra]([https://linkedin.com/in/dipson-mishra](https://www.linkedin.com/in/dipson-mishra-b5a1881b6/))
+- Weekly learning updates on LinkedIn
 
-### Technical Stack:
-- Languages : Python, Pandas, Numpy, Matplotlib, Seaborn
-
-- Data Tools : SQL, Power BI, Excel
-
-- Mathematical Foundation: Probability Theory, Discrete Mathematics, Linear Algebra, Multivariable Calculus
-
+### ⚡ Tech Stack
+**Languages:** Python, SQL  
+**ML/Data:** scikit-learn, pandas, NumPy, DuckDB, Hugging Face  
+**Visualization:** Matplotlib, Seaborn, Plotly  
+**MLOps:** Git/GitHub, Jupyter/Colab  
+**Mathematics:** Probability, Linear Algebra, Calculus, Discrete Math
