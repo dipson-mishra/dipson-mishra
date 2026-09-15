@@ -5,7 +5,7 @@
 ###  Current Focus
 - Building production-ready ML systems with MLOps best practices
 - Mastering Computer Vision for real-world applications
-- Currently enrolled in [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) (completing Oct 2026)
+- Currently enrolled in [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) by DataTalks.Club(completing Oct 2026)
 
 ### 🚀 Recent Achievements
 - **FlyRank AI Internship:** Improved content prioritization Precision@50 by **3x** (0.24 → 0.68) using Learning-to-Rank models
