@@ -13,7 +13,7 @@
 - **Certifications:** DataCamp Associate Data Scientist, WorldQuant Applied Data Science Lab(Ongoing)
 
 ### 📫 Find me on
-- LinkedIn: [linkedin.com/in/dipson-mishra](https://www.linkedin.com/in/dipson-mishra-b5a1881b6/)
+- LinkedIn: [Dipson-mishra](https://www.linkedin.com/in/dipson-mishra-b5a1881b6/)
 - Weekly learning updates on LinkedIn
 
 ### ⚡ Tech Stack
