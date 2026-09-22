@@ -22,5 +22,7 @@
 - **MLOps & Tools:** Git/GitHub, Jupyter/Colab, Experiment Tracking
 - **Mathematics:** Probability, Linear Algebra, Calculus, Discrete Math
 
+### For more details
+- [Have a look at my archive.](https://dipson-mishra.github.io/portfolio/)
 ---
 *💡 "Building intelligent systems, one commit at a time."*
