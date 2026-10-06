@@ -19,7 +19,8 @@
 - **Languages:** Python, SQL
 - **ML / Data:** scikit-learn, pandas, NumPy, DuckDB, Hugging Face 🤗
 - **Visualization:** Matplotlib, Seaborn, Plotly
-- **MLOps & Tools:** Git/GitHub, Jupyter/Colab, Experiment Tracking
+- **Backend & Serving:** Flask
+- **MLOps & Tools:** Git/GitHub, Jupyter/Colab, Experiment Tracking, Docker
 - **Mathematics:** Probability, Linear Algebra, Calculus, Discrete Math
 
 ### For more details
