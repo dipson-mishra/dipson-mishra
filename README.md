@@ -41,11 +41,7 @@
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Mathematics:** 
-  ![Probability](https://img.shields.io/badge/Probability-5A2D81?style=for-the-badge) 
-  ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-2C3E50?style=for-the-badge) 
-  ![Calculus](https://img.shields.io/badge/Calculus-C0392B?style=for-the-badge) 
-  ![Discrete Math](https://img.shields.io/badge/Discrete_Math-16A085?style=for-the-badge)
+
 
 ### For more details
 - [Have a look at my archive.](https://dipson-mishra.github.io/portfolio/)
