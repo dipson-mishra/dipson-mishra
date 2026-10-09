@@ -4,7 +4,6 @@
 
 ### 🎯 Current Focus
 - Mastering Computer Vision and Deep Learning for real-world applications
-- Currently enrolled in the [ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) by DataTalks.Club *(Expected Completion: Oct 2026)*
 
 ### 🚀 Recent Achievements
 - **FlyRank AI Internship:** Improved content prioritization **Precision@50 by 3x** (0.24 → 0.68) by developing and optimizing Learning-to-Rank models. Engineered highly efficient data pipelines processing **79M+ rows** using DuckDB, successfully bypassing local RAM constraints for large-scale SEO analytics.
