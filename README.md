@@ -1,6 +1,3 @@
-<a href="http://gitfut.com/dipson-mishra" target="_blank">
-  <img src="http://gitfut.com/dipson-mishra.png" width="220" align="right" alt="GitFut card">
-</a>
 
 # Hi there 👋 I'm Dipson Mishra
 
