@@ -61,7 +61,6 @@
 ### 📫 Connect & Explore
 
 * 💼 **LinkedIn:** [Dipson Mishra](https://www.linkedin.com/in/dipson-mishra-b5a1881b6/) *(Sharing weekly ML learnings & project breakdowns)*
-* 📂 **Portfolio Archive:** [dipson-mishra.github.io/portfolio](https://dipson-mishra.github.io/portfolio/)
 
 ---
 
